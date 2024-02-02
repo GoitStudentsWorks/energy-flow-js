@@ -8,7 +8,6 @@
     "build": "vite build --base=/energy-flow-js/",
     "preview": "vite preview"
   },
-  
   "devDependencies": {
     "glob": "^8.1.0",
     "sass": "^1.70.0",
